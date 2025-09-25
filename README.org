@@ -10,7 +10,6 @@ Simply type this into your terminal and press enter
 nix run github:jblais493/go-api-key
 #+end_src
 
-You will be asked the name of your app, and the outputted a API key that you can keep safe with [[https://github.com/FiloSottile/age][age]], [[https://www.passwordstore.org/
-][pass]], [[https://linux.die.net/man/1/gpg][gpg]], whatever you choose.
+You will be asked the name of your app, and the outputted a API key that you can keep safe with [[https://github.com/FiloSottile/age][age]], [[https://www.passwordstore.org/][pass]], [[https://linux.die.net/man/1/gpg][gpg]], whatever you choose.
 
 You can then alias this in your shell profile to whatever you like. I use ~keygen~.
